@@ -2,13 +2,11 @@ body {
     font-family: 'Roboto';
 }
 
-.heading {
+.font-inter {
     font-family: 'Inter';
 }
 
 /* ==== Navbar ==== */
-
-
 
 /* ==== Jumbotron ==== */
 .jumbotron {
@@ -17,7 +15,6 @@ body {
 }
 
 .name {
-    font-family: 'Inter';
     font-size: 50px;
 }
 
