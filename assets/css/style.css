@@ -5,6 +5,7 @@
 /* ==== Jumbotron ==== */
 .jumbotron {
     height: 100vh;
+    background-color: #f6f7fb;
 }
 
 .me-img {
