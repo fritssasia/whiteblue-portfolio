@@ -19,6 +19,9 @@ body {
 }
 
 /* ==== Navbar ==== */
+.nav-item {
+    padding-right: 10px;
+}
 
 /* ==== Jumbotron ==== */
 .jumbotron {
