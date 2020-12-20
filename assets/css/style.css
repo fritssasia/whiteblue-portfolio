@@ -49,6 +49,14 @@ body {
     height: 300px;
 }
 
+.btn-explore {
+    font-size: 18px;
+}
+
+.btn-explore:hover {
+    box-shadow: 0px 3px 8px rgb(126, 34, 206, 0.5);
+}
+
 
 /* ==== Tentang ==== */
 
