@@ -10,8 +10,12 @@ body {
     font-weight: 500;
 }
 
+.bg-color-1 {
+    background-color: #7e22ce;
+}
+
 .color-1 {
-    color: #7E22CE;
+    color: #7e22ce;
 }
 
 .color-2 {
