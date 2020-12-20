@@ -6,8 +6,12 @@ body {
     font-family: 'Inter';
 }
 
+.font-weight-medium {
+    font-weight: 500;
+}
+
 .color-1 {
-    color: #784cfb;
+    color: #7E22CE;
 }
 
 .color-2 {
