@@ -1,5 +1,11 @@
 /* ==== Extra small devices (portrait phones, less than 576px) ==== */
-@media (max-width: 575.98px) {}
+@media (max-width: 575.98px) {
+
+    /* ---- Jumbotron ---- */
+    .name {
+        padding-top: 25px;
+    }
+}
 
 /* ==== Small devices (landscape phones, 576px and up) ==== */
 @media (min-width: 576px) and (max-width: 767.98px) {}
@@ -11,4 +17,10 @@
 @media (min-width: 992px) and (max-width: 1199.98px) {}
 
 /* ==== Extra large devices (large desktops, 1200px and up) ==== */
-@media (min-width: 1200px) {}
+@media (min-width: 1200px) {
+
+    /* ---- Jumbotron ---- */
+    .name {
+        padding-top: 30px;
+    }
+}
