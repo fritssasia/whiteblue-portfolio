@@ -6,6 +6,18 @@ body {
     font-family: 'Inter';
 }
 
+.color-1 {
+    color: #784cfb;
+}
+
+.color-2 {
+    color: #111827;
+}
+
+.color-3 {
+    color: #6b7280;
+}
+
 /* ==== Navbar ==== */
 
 /* ==== Jumbotron ==== */
@@ -14,12 +26,12 @@ body {
     background-color: #f6f7fb;
 }
 
-.name {
-    font-size: 50px;
+.jumbotron-content {
+    padding-top: 90px;
 }
 
-.proffesion {
-    color: #949398;
+.name {
+    font-size: 50px;
 }
 
 .me-img {
