@@ -27,8 +27,17 @@ body {
 }
 
 /* ==== Navbar ==== */
+.navbar-brand {
+    color: #7e22ce !important;
+    font-family: 'Inter';
+}
+
 .nav-item {
     padding-right: 10px;
+}
+
+.nav-link {
+    color: #6b7280 !important;
 }
 
 /* ==== Jumbotron ==== */
