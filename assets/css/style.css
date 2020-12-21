@@ -33,21 +33,9 @@ body {
 
 /* ==== Jumbotron ==== */
 .jumbotron {
-    height: 100vh;
     background-color: #f6f7fb;
 }
 
-.jumbotron-content {
-    padding-top: 90px;
-}
-
-.name {
-    font-size: 50px;
-}
-
-.me-img {
-    height: 300px;
-}
 
 .btn-socmed {
     margin-right: 10px;
