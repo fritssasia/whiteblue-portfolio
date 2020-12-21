@@ -54,6 +54,11 @@ body {
     font-size: 20px;
 }
 
+.btn-socmed:hover {
+    color: #7e22ce;
+    transition: all 0.3s;
+}
+
 .btn-explore {
     font-size: 18px;
 }
