@@ -49,6 +49,11 @@ body {
     height: 300px;
 }
 
+.btn-socmed {
+    margin-right: 10px;
+    font-size: 20px;
+}
+
 .btn-explore {
     font-size: 18px;
 }
