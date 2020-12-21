@@ -2,25 +2,89 @@
 @media (max-width: 575.98px) {
 
     /* ---- Jumbotron ---- */
+    .jumbotron {
+        height: 725px;
+    }
+
+    .jumbotron-content {
+        padding-top: 60px;
+    }
+
     .name {
         padding-top: 25px;
+        font-size: 45px
+    }
+
+    .me-img {
+        height: 250px;
     }
 }
 
 /* ==== Small devices (landscape phones, 576px and up) ==== */
-@media (min-width: 576px) and (max-width: 767.98px) {}
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* ---- Jumbotron ---- */
+    .jumbotron {
+        height: 725px;
+    }
+
+    .jumbotron-content {
+        padding-top: 60px;
+    }
+
+    .name {
+        padding-top: 25px;
+        font-size: 45px
+    }
+
+    .me-img {
+        height: 250px;
+    }
+}
 
 /* ==== Medium devices (tablets, 768px and up) ==== */
 @media (min-width: 768px) and (max-width: 991.98px) {}
 
 /* ==== Large devices (desktops, 992px and up) ==== */
-@media (min-width: 992px) and (max-width: 1199.98px) {}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* ---- Jumbotron ---- */
+    .jumbotron {
+        height: 100vh;
+    }
+
+    .jumbotron-content {
+        padding-top: 90px;
+    }
+
+    .name {
+        padding-top: 30px;
+        font-size: 50px;
+    }
+
+    .me-img {
+        height: 300px;
+    }
+}
 
 /* ==== Extra large devices (large desktops, 1200px and up) ==== */
 @media (min-width: 1200px) {
 
     /* ---- Jumbotron ---- */
+    .jumbotron {
+        height: 100vh;
+    }
+
+    .jumbotron-content {
+        padding-top: 90px;
+    }
+
     .name {
         padding-top: 30px;
+        font-size: 50px;
+    }
+
+    .me-img {
+        height: 300px;
     }
 }
