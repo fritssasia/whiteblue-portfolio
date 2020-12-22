@@ -16,7 +16,13 @@
     }
 
     .me-img {
-        height: 250px;
+        height: 265px;
+    }
+
+
+    /* ---- About ---- */
+    .about-img {
+        height: 275px;
     }
 }
 
@@ -86,5 +92,11 @@
 
     .me-img {
         height: 325px;
+    }
+
+
+    /* ---- About ---- */
+    .about-img {
+        height: 380px;
     }
 }
