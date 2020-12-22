@@ -36,8 +36,16 @@ body {
     padding-right: 10px;
 }
 
+.nav-item .active {
+    color: #7e22ce !important;
+}
+
 .nav-link {
     color: #6b7280 !important;
+}
+
+.nav-link:hover {
+    color: #7e22ce;
 }
 
 /* ==== Jumbotron ==== */
