@@ -21,8 +21,18 @@
 
 
     /* ---- About ---- */
+    .about-heading {
+        padding-top: 55px;
+    }
+
+    .about-desc {
+        padding-top: 25px;
+    }
+
+
     .about-img {
         height: 275px;
+        padding-top: 15px;
     }
 }
 
@@ -96,6 +106,15 @@
 
 
     /* ---- About ---- */
+    .about-heading {
+        padding-top: 55px;
+    }
+
+    .about-desc {
+        padding-top: 25px;
+    }
+
+
     .about-img {
         height: 380px;
     }
