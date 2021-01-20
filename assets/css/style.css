@@ -80,6 +80,10 @@ body {
 
 
 /* ==== Tentang ==== */
+.about-img {
+    height: 300px !important;
+    margin-top: -100px;
+}
 
 
 /* ==== Pengalaman ==== */
