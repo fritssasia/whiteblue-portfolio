@@ -85,7 +85,9 @@ body {
     object-fit: cover;
 }
 
-/* ==== kemampuan ==== */
+/* ==== Kemampuan ==== */
+
+/* ---- Skill Icon ---- */
 .html-icon {
     color: #e34c26;
 }
@@ -106,45 +108,61 @@ body {
     color: #306998;
 }
 
-.skill-progress {
-    background-color: #ebebeb;
-}
-
-.skill-html {
-    line-height: 1px;
-}
-
-.progress-bar-html {
-    background-color: #e34c26;
-}
-
 .skill-css {
     line-height: 1px;
+    color: #264de4;
+}
+/* -------------------- */
+
+/* ---- Skill Name ---- */
+.skill-html {
+    line-height: 1px;
+    color: #e34c26;
+}
+
+.skill-bootstrap {
+    color: #7211f5;
 }
 
 .skill-js {
     line-height: 1px;
+    color: #ffc107;
+}
+
+.skill-python {
+    line-height: 1px;
+    color: #306998;
+}
+/* -------------------- */
+
+/* ---- Skill Progress */
+.skill-progress {
+    background-color: #ebebeb;
+}
+/* -------------------- */
+
+/* ---- Progress Bar Skill ---- */
+.progress-bar-html {
+    background-color: #e34c26;
 }
 
 .progress-bar-css {
     background-color: #264de4;
 }
 
-.progress-bar-js {
-    background-color: #ffc107;
-}
-
 .progress-bar-bootstrap {
     background-color: #7211f5;
 }
 
-.skill-python {
-    line-height: 1px;
+.progress-bar-js {
+    background-color: #ffc107;
 }
 
 .progress-bar-python {
     background-color: #306998;
 }
+/* -------------------- */
+
 
 /* ==== Pengalaman ==== */
 
