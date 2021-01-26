@@ -86,6 +86,26 @@ body {
 }
 
 /* ==== kemampuan ==== */
+.html-icon {
+    color: #e34c26;
+}
+
+.css-icon {
+    color: #264de4;
+}
+
+.bootstrap-icon {
+    color: #7211f5;
+}
+
+.js-icon {
+    color: #ffc107;
+}
+
+.python-icon {
+    color: #306998;
+}
+
 .skill-progress {
     background-color: #ebebeb;
 }
@@ -122,7 +142,7 @@ body {
     line-height: 1px;
 }
 
-.progress-bar-ptyhon {
+.progress-bar-python {
     background-color: #306998;
 }
 
