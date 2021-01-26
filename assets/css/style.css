@@ -85,6 +85,47 @@ body {
     object-fit: cover;
 }
 
+/* ==== kemampuan ==== */
+.skill-progress {
+    background-color: #ebebeb;
+}
+
+.skill-html {
+    line-height: 1px;
+}
+
+.progress-bar-html {
+    background-color: #e34c26;
+}
+
+.skill-css {
+    line-height: 1px;
+}
+
+.skill-js {
+    line-height: 1px;
+}
+
+.progress-bar-css {
+    background-color: #264de4;
+}
+
+.progress-bar-js {
+    background-color: #ffc107;
+}
+
+.progress-bar-bootstrap {
+    background-color: #7211f5;
+}
+
+.skill-python {
+    line-height: 1px;
+}
+
+.progress-bar-ptyhon {
+    background-color: #306998;
+}
+
 /* ==== Pengalaman ==== */
 
 
