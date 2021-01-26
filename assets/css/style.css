@@ -87,7 +87,7 @@ body {
 
 /* ==== Kemampuan ==== */
 
-/* ---- Skill Icon ---- */
+/* ---- Skill & Tools Icon ---- */
 .html-icon {
     color: #e34c26;
 }
@@ -114,7 +114,7 @@ body {
 }
 /* -------------------- */
 
-/* ---- Skill Name ---- */
+/* ---- Skill & Tools Name ---- */
 .skill-html {
     line-height: 1px;
     color: #e34c26;
@@ -135,13 +135,13 @@ body {
 }
 /* -------------------- */
 
-/* ---- Skill Progress */
+/* ---- Skill & Tools Progress */
 .skill-progress {
     background-color: #ebebeb;
 }
 /* -------------------- */
 
-/* ---- Progress Bar Skill ---- */
+/* ---- Progress Bar Skill & Tools ---- */
 .progress-bar-html {
     background-color: #e34c26;
 }
