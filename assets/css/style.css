@@ -2,6 +2,19 @@ body {
     font-family: 'Roboto';
 }
 
+::-webkit-scrollbar {
+    width: 8px;
+}
+ 
+::-webkit-scrollbar-track {  
+    background: #ebebeb;   
+}
+ 
+::-webkit-scrollbar-thumb {
+    background: #7e22ce;
+    border-radius: 100px;
+}
+
 .font-inter {
     font-family: 'Inter';
 }
