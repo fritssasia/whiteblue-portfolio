@@ -87,40 +87,19 @@ body {
 
 /* ==== Kemampuan ==== */
 
-/* ---- Skill & Tools Icon ---- */
-.html-icon {
-    color: #e34c26;
-}
-
-.css-icon {
-    color: #264de4;
-}
-
-.bootstrap-icon {
-    color: #7211f5;
-}
-
-.js-icon {
-    color: #ffc107;
-}
-
-.python-icon {
-    color: #306998;
-}
-
-.skill-css {
-    line-height: 1px;
-    color: #264de4;
-}
-/* -------------------- */
-
 /* ---- Skill & Tools Name ---- */
 .skill-html {
     line-height: 1px;
     color: #e34c26;
 }
 
+.skill-css {
+    line-height: 1px;
+    color: #264de4;
+}
+
 .skill-bootstrap {
+    line-height: 1px;
     color: #7211f5;
 }
 
@@ -133,10 +112,25 @@ body {
     line-height: 1px;
     color: #306998;
 }
+
+.tools-linux {
+    line-height: 1px;
+    color : #0b57a4
+}
+
+.tools-vscode {
+    line-height: 1px;
+    color: #0078d7;
+}
+
+.tools-git {
+    line-height: 1px;
+    color: #f34f29;
+}
 /* -------------------- */
 
 /* ---- Skill & Tools Progress */
-.skill-progress {
+.skill-tools-progress {
     background-color: #ebebeb;
 }
 /* -------------------- */
@@ -160,6 +154,18 @@ body {
 
 .progress-bar-python {
     background-color: #306998;
+}
+
+.progress-bar-linux {
+    background-color: #0b57a4;
+}
+
+.progress-bar-vscode {
+    background-color: #0078d7;
+}
+
+.progress-bar-git {
+    background-color: #f34f29;
 }
 /* -------------------- */
 
