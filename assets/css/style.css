@@ -2,6 +2,7 @@ body {
     font-family: 'Roboto';
 }
 
+/* Scrollbar Style */
 ::-webkit-scrollbar {
     width: 8px;
 }
