@@ -6,11 +6,11 @@ body {
 ::-webkit-scrollbar {
     width: 8px;
 }
- 
-::-webkit-scrollbar-track {  
-    background: #ebebeb;   
+
+::-webkit-scrollbar-track {
+    background: #ebebeb;
 }
- 
+
 ::-webkit-scrollbar-thumb {
     background: #7e22ce;
     border-radius: 100px;
@@ -129,7 +129,7 @@ body {
 
 .tools-linux {
     line-height: 1px;
-    color : #0b57a4
+    color: #0b57a4
 }
 
 .tools-vscode {
@@ -141,12 +141,14 @@ body {
     line-height: 1px;
     color: #f34f29;
 }
+
 /* -------------------- */
 
 /* ---- Skill & Tools Progress */
 .skill-tools-progress {
     background-color: #ebebeb;
 }
+
 /* -------------------- */
 
 /* ---- Progress Bar Skill & Tools ---- */
@@ -181,11 +183,23 @@ body {
 .progress-bar-git {
     background-color: #f34f29;
 }
+
 /* -------------------- */
 
 
 /* ==== Pengalaman ==== */
+.card {
+    border: none;
+    box-shadow:
+        0 1px 3.2px rgba(0, 0, 0, 0.028),
+        0 2.6px 8.8px rgba(0, 0, 0, 0.04),
+        0 6.3px 21.1px rgba(0, 0, 0, 0.052),
+        0 21px 70px rgba(0, 0, 0, 0.08);
+}
 
+.aa {
+    border-left: 3px solid #111827;
+}
 
 /* ==== Portfolio ==== */
 
