@@ -107,7 +107,7 @@
 
     /* ---- About ---- */
     .about-heading {
-        padding-top: 55px;
+        padding-top: 65px;
     }
 
     .about-desc {
@@ -119,7 +119,27 @@
         height: 380px;
     }
 
+    /* ---- Kemampuan ---- */
+    .skill {
+        padding-top: 65px;
+    }
+
+    /* ---- Pengalaman ---- */
+    .experience {
+        padding-top: 65px;
+    }
+
+    /* ---- Project ---- */
+
+    .portfolio {
+        padding-top: 65px;
+    }
+
     /* ==== Contact ==== */
+    .contact {
+        padding-top: 65px;
+    }
+
     .contact-card {
         width: 850px;
         height: 140px;
