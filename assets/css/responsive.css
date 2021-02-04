@@ -118,4 +118,11 @@
     .about-img {
         height: 380px;
     }
+
+    /* ==== Contact ==== */
+    .contact-card {
+        width: 850px;
+        height: 140px;
+        margin: 0 auto;
+    }
 }
