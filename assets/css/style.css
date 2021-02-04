@@ -198,6 +198,27 @@ body {
 
 /* ==== Portfolio ==== */
 
-
-
 /* ==== Kontak ==== */
+.contact-card {
+    background-color: #7e22ce;
+    color: white;
+}
+
+.contact-card-content {
+    padding-top: 6px;
+}
+
+.contact-email {
+    font-size: 30px;
+}
+
+.btn-say-hello {
+    background-color: white;
+    color: #7e22ce;
+    margin-top: 25px;
+}
+
+.btn-say-hello:hover {
+    color: #7e22ce;
+    box-shadow: 2px, 2px, 2px white;
+}
