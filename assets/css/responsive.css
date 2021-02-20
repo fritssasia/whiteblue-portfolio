@@ -58,14 +58,17 @@
         padding-top: 25px;
         font-size: 45px
     }
-
-    .me-img {
-        height: 250px;
-    }
 }
 
 /* ==== Medium devices (tablets, 768px and up) ==== */
-@media (min-width: 768px) and (max-width: 991.98px) {}
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* ---- Jumbotron ---- */
+    .jumbotron {
+        height: 500px !important;
+    }
+
+}
 
 /* ==== Large devices (desktops, 992px and up) ==== */
 @media (min-width: 992px) and (max-width: 1199.98px) {
