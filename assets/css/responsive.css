@@ -1,6 +1,15 @@
 /* ==== Extra small devices (portrait phones, less than 576px) ==== */
 @media (max-width: 575.98px) {
 
+    /* ---- Padding Per Page ---- */
+    .about-heading,
+    .skill-heading,
+    .experience-heading,
+    .portfolio-heading,
+    .contact-heading {
+        padding-top: 65px;
+    }
+
     /* ---- Jumbotron ---- */
     .jumbotron {
         height: 725px;
@@ -12,28 +21,25 @@
 
     .name {
         padding-top: 25px;
-        font-size: 45px
+        font-size: 45px;
     }
-
-    .me-img {
-        height: 265px;
-    }
-
 
     /* ---- Tentang ---- */
-    .about-heading {
-        padding-top: 55px;
-    }
-
     .about-desc {
         padding-top: 25px;
     }
 
-
     .about-img {
-        height: 275px;
-        padding-top: 15px;
+        padding-top: 100px;
     }
+
+    /* ---- Kemampuan ---- */
+
+    /* ---- Pengalaman ---- */
+
+    /* ---- Portfolio ---- */
+
+    /* ---- Kontak ---- */
 }
 
 /* ==== Small devices (landscape phones, 576px and up) ==== */
