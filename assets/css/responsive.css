@@ -92,6 +92,15 @@
 /* ==== Extra large devices (large desktops, 1200px and up) ==== */
 @media (min-width: 1200px) {
 
+    /* ---- Padding Per Page ---- */
+    .about-heading,
+    .skill-heading,
+    .experience-heading,
+    .portfolio-heading,
+    .contact-heading {
+        padding-top: 65px;
+    }
+
     /* ---- Jumbotron ---- */
     .jumbotron {
         height: 100vh;
@@ -112,40 +121,21 @@
 
 
     /* ---- Tentang ---- */
-    .about-heading {
-        padding-top: 65px;
-    }
-
     .about-desc {
         padding-top: 25px;
     }
-
 
     .about-img {
         height: 380px;
     }
 
     /* ---- Kemampuan ---- */
-    .skill {
-        padding-top: 65px;
-    }
 
     /* ---- Pengalaman ---- */
-    .experience {
-        padding-top: 65px;
-    }
 
     /* ---- Portfolio ---- */
 
-    .portfolio {
-        padding-top: 65px;
-    }
-
     /* ---- Contact ---- */
-    .contact {
-        padding-top: 65px;
-    }
-
     .contact-card {
         width: 850px;
         height: 140px;
