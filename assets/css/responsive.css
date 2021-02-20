@@ -77,6 +77,10 @@
         height: 500px !important;
     }
 
+    .jumbotron-content {
+        padding-top: 60px;
+    }
+
 }
 
 /* ==== Large devices (desktops, 992px and up) ==== */
