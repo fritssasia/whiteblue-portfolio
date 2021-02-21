@@ -2,7 +2,7 @@
 @media (max-width: 575.98px) {
     /* ---- Jumbotron ---- */
     .jumbotron {
-        height: 100vh;
+        height: 750px;
     }
 
     .jumbotron-content {
@@ -15,10 +15,6 @@
     }
 
     /* ---- Tentang ---- */
-    .about-desc {
-        padding-top: 25px;
-    }
-
     .about-img {
         padding-top: 100px;
     }
