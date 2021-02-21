@@ -210,3 +210,8 @@ body {
     color: #7e22ce;
     box-shadow: 2px, 2px, 2px white;
 }
+
+/* ==== Footer ==== */
+.footer-bottom {
+    height: 130px;
+}
