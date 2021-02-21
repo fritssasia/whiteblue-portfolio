@@ -1,18 +1,8 @@
 /* ==== Extra small devices (portrait phones, less than 576px) ==== */
 @media (max-width: 575.98px) {
-
-    /* ---- Padding Per Page ---- */
-    .about-heading,
-    .skill-heading,
-    .experience-heading,
-    .portfolio-heading,
-    .contact-heading {
-        padding-top: 65px;
-    }
-
     /* ---- Jumbotron ---- */
     .jumbotron {
-        height: 725px;
+        height: 100vh;
     }
 
     .jumbotron-content {
@@ -40,6 +30,11 @@
     /* ---- Portfolio ---- */
 
     /* ---- Kontak ---- */
+
+    /* ---- Footer ---- */
+    .footer-bottom {
+        height: 130px;
+    }
 }
 
 /* ==== Small devices (landscape phones, 576px and up) ==== */
@@ -47,31 +42,35 @@
 
     /* ---- Jumbotron ---- */
     .jumbotron {
-        height: 725px;
+        height: 625px;
     }
 
     .jumbotron-content {
         padding-top: 60px;
     }
 
+    .me-img {
+        height: 220px;
+    }
+
     .name {
         padding-top: 25px;
         font-size: 45px
+    }
+
+    /* ---- About ---- */
+    .about-img {
+        height: 210px !important;
+    }
+
+    /* ---- Footer ---- */
+    .footer-bottom {
+        height: 130px;
     }
 }
 
 /* ==== Medium devices (tablets, 768px and up) ==== */
 @media (min-width: 768px) and (max-width: 991.98px) {
-
-    /* ---- Padding Per Page ---- */
-    .about-heading,
-    .skill-heading,
-    .experience-heading,
-    .portfolio-heading,
-    .contact-heading {
-        padding-top: 65px;
-    }
-
     /* ---- Jumbotron ---- */
     .jumbotron {
         height: 500px !important;
@@ -107,16 +106,6 @@
 
 /* ==== Extra large devices (large desktops, 1200px and up) ==== */
 @media (min-width: 1200px) {
-
-    /* ---- Padding Per Page ---- */
-    .about-heading,
-    .skill-heading,
-    .experience-heading,
-    .portfolio-heading,
-    .contact-heading {
-        padding-top: 65px;
-    }
-
     /* ---- Jumbotron ---- */
     .jumbotron {
         height: 100vh;
