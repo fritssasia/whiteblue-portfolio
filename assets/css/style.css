@@ -62,6 +62,15 @@ body {
     color: #7e22ce !important;
 }
 
+/* ---- Padding Per Page ---- */
+.about-heading,
+.skill-heading,
+.experience-heading,
+.portfolio-heading,
+.contact-heading {
+    padding-top: 65px;
+}
+
 /* ==== Jumbotron ==== */
 .jumbotron {
     background-color: #f6f7fb;
@@ -212,6 +221,3 @@ body {
 }
 
 /* ==== Footer ==== */
-.footer-bottom {
-    height: 130px;
-}
