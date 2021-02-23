@@ -213,6 +213,7 @@ body {
 
 .portfolio-image-wrapper:hover .portfolio-img-overlay {
     opacity: 0.8;
+    cursor: pointer;
 }
 
 .portfolio-text-overlay {
