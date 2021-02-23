@@ -194,6 +194,10 @@ body {
 }
 
 /* ==== Portfolio ==== */
+.portfolio-image-wrapper {
+    position: relative;
+}
+
 .portfolio-img-overlay {
     position: absolute;
     top: 0;
