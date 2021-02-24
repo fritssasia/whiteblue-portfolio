@@ -198,8 +198,13 @@ body {
     position: relative;
 }
 
+.portfolio-img {
+    border-radius: 10px;
+}
+
 .portfolio-img-overlay {
     position: absolute;
+    border-radius: 10px;
     top: 0;
     bottom: 0;
     left: 0;
