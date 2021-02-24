@@ -26,9 +26,10 @@
         margin-left: 7px;
     }
 
-    /* ---- About ---- */
-    .about-img {
-        padding-top: 100px;
+    /* ---- Profile ---- */
+    .profile-img {
+        height: 250px !important;
+        margin-top: 1px;
     }
 
     /* ---- Skill ---- */
@@ -57,7 +58,7 @@
         padding-top: 60px;
     }
 
-    .me-img {
+    .jumbotron-hero-image {
         height: 220px;
     }
 
@@ -66,9 +67,10 @@
         font-size: 45px
     }
 
-    /* ---- About ---- */
-    .about-img {
-        height: 210px !important;
+    /* ---- Profile ---- */
+    .profile-img {
+        height: 250px !important;
+        margin-top: 1px;
     }
 
     /* ---- Footer ---- */
@@ -107,7 +109,7 @@
         font-size: 50px;
     }
 
-    .me-img {
+    .jumbotron-hero-image {
         height: 300px;
     }
 
@@ -133,13 +135,13 @@
         font-size: 50px;
     }
 
-    .me-img {
+    .jumbotron-hero-image {
         height: 325px;
     }
 
 
-    /* ---- About ---- */
-    .about-img {
+    /* ---- Profile ---- */
+    .profile-img {
         height: 380px;
     }
 
