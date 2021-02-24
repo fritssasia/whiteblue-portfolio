@@ -243,6 +243,15 @@ body {
     text-align: center;
 }
 
+.portfolio-modal-tag {
+    border: 1px solid #7e22ce;
+    border-radius: 5px;
+}
+
+.portfolio-modal-btn {
+    background-color: #7e22ce;
+}
+
 /* ==== Contact ==== */
 .contact-card {
     background-color: #7e22ce;
