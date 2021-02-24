@@ -75,6 +75,11 @@
     .jumbotron-content {
         padding-top: 60px;
     }
+    
+    /* ---- Portfolio ---- */
+    .portfolio-nav {
+        margin-top: -50px;
+    }
 
 }
 
@@ -97,6 +102,11 @@
 
     .me-img {
         height: 300px;
+    }
+
+    /* ---- Portfolio ---- */
+    .portfolio-nav {
+        margin-top: -50px;
     }
 }
 
@@ -131,6 +141,9 @@
     /* ---- Experience ---- */
 
     /* ---- Portfolio ---- */
+    .portfolio-nav {
+        margin-top: -50px;
+    }
 
     /* ---- Contact ---- */
     .contact-card {
