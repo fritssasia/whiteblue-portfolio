@@ -63,7 +63,7 @@ body {
 }
 
 /* ==== Padding Per Page ==== */
-.about-heading,
+.profile-heading,
 .skill-heading,
 .experience-heading,
 .portfolio-heading,
@@ -100,8 +100,8 @@ body {
     box-shadow: 0px 0px 0px rgb(126, 34, 206, 0.5);
 }
 
-/* ==== About ==== */
-.about-img {
+/* ==== profile ==== */
+.profile-img {
     height: 300px !important;
     margin-top: -100px;
     object-fit: cover;
