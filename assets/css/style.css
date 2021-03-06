@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: 'Roboto';
 }
@@ -128,6 +132,10 @@ body {
     color: #ffc107;
 }
 
+.skill-vuejs {
+    color: #41B883;
+}
+
 .skill-python {
     line-height: 1px;
     color: #306998;
@@ -166,6 +174,10 @@ body {
 
 .progress-bar-js {
     background-color: #ffc107;
+}
+
+.progress-bar-vuejs {
+    background-color: #41B883;
 }
 
 .progress-bar-python {
@@ -209,15 +221,13 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
-    height: 100%;
-    width: 100%;
     opacity: 0;
     transition: .5s ease;
     background-color: #7e22ce;
 }
 
 .portfolio-image-wrapper:hover .portfolio-img-overlay {
-    opacity: 0.8;
+    opacity: 0.9;
     cursor: pointer;
 }
 
